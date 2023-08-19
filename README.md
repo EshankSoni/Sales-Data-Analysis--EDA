@@ -1,5 +1,6 @@
 
 # EDA Project on Sales Analysis
+![EDA](exploratory-data-analysis.jpg)
 
 ## Overview: 
 
